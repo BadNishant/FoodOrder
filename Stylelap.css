@@ -64,7 +64,7 @@ html{
 #Home::before{
     position: absolute;
     content: "";
-    background: url(/Home.jpg) no-repeat center center/cover;
+    background: url("/Home.jpg") no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 400px;
@@ -140,7 +140,7 @@ html{
 }
 .client-cont::before{
     content: "";
-    background: url(/Box_back2.jpg);
+    background: url("/Box_back2.jpg");
     height: 100%;
     width: 100%;
     position: absolute;
